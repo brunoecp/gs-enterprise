@@ -11,7 +11,7 @@ namespace gs_enterprise.Data
         public DbSet<Informacoes> Informacoes { get; set; }
         public DbSet<MensagemDoutor> MensagemDoutores { get; set; }
         public DbSet<MensagemPaciente> MensagemPacientes{ get; set; }
-
+        public DbSet<Chamada> chamadas { get; set; }
 
         public mysqlContext(DbContextOptions<mysqlContext> options) : base(options)
         {

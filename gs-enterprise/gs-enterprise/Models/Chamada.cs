@@ -8,7 +8,7 @@ namespace gs_enterprise.Models
     {
         [Required]
         [Key]
-        private int Id { get; set; }
+        public int Id { get; set; }
 
         public int DoutorId { get; set; }
         public Doutor Doutor { get; set; }
