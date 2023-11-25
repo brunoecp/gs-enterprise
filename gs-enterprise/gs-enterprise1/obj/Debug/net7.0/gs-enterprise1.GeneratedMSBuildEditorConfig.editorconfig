@@ -9,177 +9,177 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = gs_enterprise1
 build_property.RootNamespace = gs_enterprise1
-build_property.ProjectDir = C:\Users\Pichau\Desktop\gs-enterprise\gs-enterprise1\gs-enterprise1\
+build_property.ProjectDir = C:\Users\Pichau\Desktop\gs-enterprise\gs-enterprise\gs-enterprise1\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Pichau\Desktop\gs-enterprise\gs-enterprise1\gs-enterprise1
+build_property.MSBuildProjectDirectory = C:\Users\Pichau\Desktop\gs-enterprise\gs-enterprise\gs-enterprise1
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/Chamadas/Create.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/Chamadas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhbWFkYXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/Chamadas/Delete.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/Chamadas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhbWFkYXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/Chamadas/Details.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/Chamadas/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhbWFkYXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/Chamadas/Edit.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/Chamadas/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhbWFkYXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/Chamadas/Index.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/Chamadas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhbWFkYXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/Chats/Create.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/Chats/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/Chats/Delete.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/Chats/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/Chats/Details.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/Chats/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/Chats/Edit.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/Chats/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/Chats/Index.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/Chats/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/Doutors/Create.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/Doutors/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG91dG9yc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/Doutors/Delete.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/Doutors/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG91dG9yc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/Doutors/Details.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/Doutors/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG91dG9yc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/Doutors/Edit.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/Doutors/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG91dG9yc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/Doutors/Index.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/Doutors/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG91dG9yc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/Home/Index.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/Home/Privacy.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/Informacoes/Create.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/Informacoes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mb3JtYWNvZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/Informacoes/Delete.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/Informacoes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mb3JtYWNvZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/Informacoes/Details.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/Informacoes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mb3JtYWNvZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/Informacoes/Edit.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/Informacoes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mb3JtYWNvZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/Informacoes/Index.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/Informacoes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mb3JtYWNvZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/MensagemDoutors/Create.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/MensagemDoutors/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVuc2FnZW1Eb3V0b3JzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/MensagemDoutors/Delete.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/MensagemDoutors/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVuc2FnZW1Eb3V0b3JzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/MensagemDoutors/Details.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/MensagemDoutors/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVuc2FnZW1Eb3V0b3JzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/MensagemDoutors/Edit.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/MensagemDoutors/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVuc2FnZW1Eb3V0b3JzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/MensagemDoutors/Index.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/MensagemDoutors/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVuc2FnZW1Eb3V0b3JzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/MensagemPacientes/Create.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/MensagemPacientes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVuc2FnZW1QYWNpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/MensagemPacientes/Delete.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/MensagemPacientes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVuc2FnZW1QYWNpZW50ZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/MensagemPacientes/Details.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/MensagemPacientes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVuc2FnZW1QYWNpZW50ZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/MensagemPacientes/Edit.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/MensagemPacientes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVuc2FnZW1QYWNpZW50ZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/MensagemPacientes/Index.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/MensagemPacientes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVuc2FnZW1QYWNpZW50ZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/Pacientes/Create.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/Pacientes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/Pacientes/Delete.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/Pacientes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/Pacientes/Details.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/Pacientes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/Pacientes/Edit.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/Pacientes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/Pacientes/Index.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/Pacientes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/Shared/Error.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/_ViewImports.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/_ViewStart.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise1/gs-enterprise1/Views/Shared/_Layout.cshtml]
+[C:/Users/Pichau/Desktop/gs-enterprise/gs-enterprise/gs-enterprise1/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-8zvhsa408z

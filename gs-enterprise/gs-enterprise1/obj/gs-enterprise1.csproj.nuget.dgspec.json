@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pichau\\Desktop\\gs-enterprise\\gs-enterprise1\\gs-enterprise1\\gs-enterprise1.csproj": {}
+    "C:\\Users\\Pichau\\Desktop\\gs-enterprise\\gs-enterprise\\gs-enterprise1\\gs-enterprise1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pichau\\Desktop\\gs-enterprise\\gs-enterprise1\\gs-enterprise1\\gs-enterprise1.csproj": {
+    "C:\\Users\\Pichau\\Desktop\\gs-enterprise\\gs-enterprise\\gs-enterprise1\\gs-enterprise1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pichau\\Desktop\\gs-enterprise\\gs-enterprise1\\gs-enterprise1\\gs-enterprise1.csproj",
+        "projectUniqueName": "C:\\Users\\Pichau\\Desktop\\gs-enterprise\\gs-enterprise\\gs-enterprise1\\gs-enterprise1.csproj",
         "projectName": "gs-enterprise1",
-        "projectPath": "C:\\Users\\Pichau\\Desktop\\gs-enterprise\\gs-enterprise1\\gs-enterprise1\\gs-enterprise1.csproj",
+        "projectPath": "C:\\Users\\Pichau\\Desktop\\gs-enterprise\\gs-enterprise\\gs-enterprise1\\gs-enterprise1.csproj",
         "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pichau\\Desktop\\gs-enterprise\\gs-enterprise1\\gs-enterprise1\\obj\\",
+        "outputPath": "C:\\Users\\Pichau\\Desktop\\gs-enterprise\\gs-enterprise\\gs-enterprise1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
